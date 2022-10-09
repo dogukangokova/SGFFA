@@ -1,0 +1,90 @@
+#*-------------------------------*#
+#                                 #
+#   XKMBG + ChatColor plugin by   #
+#            DogukanHD            #
+#                                 #
+#*-------------------------------*#
+
+Messages:
+  Prefix: '&8[&eServer&8] &r'
+  StaffPrefix: '&8[&d&lSTAFF&8] &r'
+  noPermission: '&cYou do not have permission!'
+  goToMessage: '&aYou teleported to &2%target%&8. &aUse &8[&e/exit&8] &ato leave&8.'
+  ExitMessage: '&cYou left the GoTo mode!'
+  usedCrashCode: '&7%player% &fused the crash code but could not succeed&8.'
+  SpectateMessage: '&fYou teleported to &2{player_displayname} &8[&e/specexit&8] &fto exit spectate mode.'
+  ExitSpectator: '&cYou are left the spectator mode&8!'
+  InvalidArguments: '&cInvalid arguments. Type /spectate <player>'
+  PlayerNotOnline: '&cPlayer is not online!'
+  NotSpectator: '&cYou are not spectator!'
+Bounty:
+  enabled: true
+
+# Set Gamemode to 3 (SPEC)
+Enable-Gamemode-3: true
+
+# Spectator Chat
+SpectatorChat:
+  enabled: true
+  format: '&4SPEC&8|{player_displayname}&8: &r{message}'
+values:
+  - 264:0, 1, 1 
+  - 272:0, 1, 1 
+  - 261:0, 1, 1 
+  - 262:0, 2, 1 
+  - 306:0, 1, 1 
+  - 307:0, 1, 1 
+  - 308:0, 1, 1 
+  - 309:0, 1, 1 
+  - 314:0, 1, 1 
+  - 315:0, 1, 1 
+  - 316:0, 1, 1 
+  - 317:0, 1, 1 
+  - 302:0, 1, 1 
+  - 303:0, 1, 1 
+  - 304:0, 1, 1 
+  - 305:0, 1, 1 
+  - 259:0, 1, 1 
+  - 264:0, 1, 1 
+  - 265:0, 1, 1 
+  - 266:0, 1, 1 
+  - 280:0, 1, 1 
+  - 322:0, 1, 1 
+  - 391:0, 1, 1 
+  - 366:0, 1, 1 
+  - 364:0, 1, 1 
+  - 393:0, 1, 1 
+  - 320:0, 1, 1 
+  - 297:0, 1, 1 
+  - 282:0, 1, 1 
+  - 260:0, 1, 1 
+  - 400:0, 1, 1 
+  - 396:0, 1, 1 
+
+valuess:
+  - 318:0, 1, 1
+  - 288:0, 2, 1
+  - 280:0, 1, 1
+  - 266:0, 1, 1
+  - 265:0, 1, 1
+  - 346:0, 1, 1
+  - 261:0, 1, 1
+  - 272:0, 1, 1
+  - 268:0, 1, 1
+  - 298:0, 1, 1
+  - 299:0, 1, 1
+  - 300:0, 1, 1
+  - 301:0, 1, 1
+  - 262:0, 3, 1
+  - 275:0, 1, 1
+  - 271:0, 1, 1
+  - 391:0, 1, 1
+  - 365:0, 1, 1
+  - 360:0, 2, 1
+  - 357:0, 1, 1
+  - 319:0, 1, 1
+  - 297:0, 1, 1
+  - 349:0, 1, 1
+  - 260:0, 2, 1
+  - 363:0, 1, 1
+  - 400:0, 1, 1

@@ -1,0 +1,20 @@
+name: GFGamerSGFFA
+main: xm.system.scoreboard.Main
+author: DogukanHD
+version: 1.0
+commands:
+  deneme:
+  exit:
+  forcestart:
+  test:
+  chatcolor:
+    aliases: [cc]
+  goto:
+    description: <player>
+  history:
+    description: <player>
+  specexit:
+    description: Exit the spectator mode
+  spectate:
+    aliases: [spec]
+    description: Spectate a player
